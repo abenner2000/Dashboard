@@ -1,0 +1,23 @@
+.Bodyy {
+  background-color: white;
+  text-align: center;
+  height: 40vh;
+  margin-top: 0px;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #066436;
+  width: 90%;
+  border: #066436;
+  border-radius: 1px;
+  border-style: solid;
+  margin: auto;
+  margin-top: 2vh;
+  position: static;
+  display: flex;
+}
+
+.Body_H1 {
+  font-size: calc(10px + 2vmin);
+  color: #066436;
+}

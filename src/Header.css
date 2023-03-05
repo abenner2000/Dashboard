@@ -1,0 +1,17 @@
+.Header {
+  background-color: #066436;
+  text-align: center;
+  width: 100%;
+  height: 10vh;
+  position: fixed absolute;
+  margin-top: 0vh;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  display: flex;
+}
+
+.Header_H1 {
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
